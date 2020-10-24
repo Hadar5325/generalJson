@@ -1,0 +1,38 @@
+[
+  {
+    "name": "A",
+    "Type": "Dog",
+    "birthYear": 2020,
+    "img": "C:\\Users\\hadar\\source\\repos\\NewProject29.9.20\\NewProject29.9.20\\IMG\\dog1.jpeg"
+  },
+  {
+    "name": "B",
+    "Type": "Dog",
+    "birthYear": 2020,
+    "img": "C:\\Users\\hadar\\source\\repos\\NewProject29.9.20\\NewProject29.9.20\\IMG\\dog2.jpg"
+  },
+  {
+    "name": "C",
+    "Type": "Dog",
+    "birthYear": 2020,
+    "img": "C:\\Users\\hadar\\source\\repos\\NewProject29.9.20\\NewProject29.9.20\\IMG\\dog3.jpg"
+  },
+  {
+    "name": "D",
+    "Type": "Dog",
+    "birthYear": 2020,
+    "img": "C:\\Users\\hadar\\source\\repos\\NewProject29.9.20\\NewProject29.9.20\\IMG\\dog4.jpg"
+  },
+  {
+    "name": "E",
+    "Type": "Dog",
+    "birthYear": 2020,
+    "img": "C:\\Users\\hadar\\source\\repos\\NewProject29.9.20\\NewProject29.9.20\\IMG\\dog5.jpg"
+  },
+  {
+    "name": "F",
+    "Type": "Dog",
+    "birthYear": 2020,
+    "img": "C:\\Users\\hadar\\source\\repos\\NewProject29.9.20\\NewProject29.9.20\\IMG\\dog6.jpg"
+  }
+]
