@@ -1,0 +1,83 @@
+[
+  {
+    "Type": 1,
+    "name": "dog1",
+    "age": 1,
+    "img": "C:\\Users\\hadar\\source\\repos\\NewProject29.9.20\\NewProject29.9.20\\IMG\\dog1.jpeg"
+  },
+  {
+    "Type": 1,
+    "name": "dog2",
+    "age": 1
+  },
+  {
+    "Type": 1,
+    "name": "dog3",
+    "age": 1
+  },
+  {
+    "Type": 1,
+    "name": "dog4",
+    "age": 1
+  },
+  {
+    "Type": 1,
+    "name": "dog5",
+    "age": 1
+  },
+  {
+    "Type": 1,
+    "name": "dog6",
+    "age": 1
+  },
+  {
+    "Type": 1,
+    "name": "dog7",
+    "age": 1
+  },
+  {
+    "Type": 1,
+    "name": "dog8",
+    "age": 1
+  },
+  {
+    "Type": 1,
+    "name": "dog9",
+    "age": 1
+  },
+  {
+    "Type": 0,
+    "name": "cat1",
+    "age": 1
+  },
+  {
+    "Type": 0,
+    "name": "cat2",
+    "age": 1
+  },
+  {
+    "Type": 0,
+    "name": "cat3",
+    "age": 1
+  },
+  {
+    "Type": 0,
+    "name": "cat4",
+    "age": 1
+  },
+  {
+    "Type": 0,
+    "name": "cat5",
+    "age": 1
+  },
+  {
+    "Type": 0,
+    "name": "cat6",
+    "age": 1
+  },
+  {
+    "Type": 0,
+    "name": "cat7",
+    "age": 1
+  }
+]
