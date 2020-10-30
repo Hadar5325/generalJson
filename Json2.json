@@ -34,5 +34,35 @@
     "Type": "Dog",
     "birthYear": 2020,
     "img": "C:\\Users\\hadar\\source\\repos\\NewProject29.9.20\\NewProject29.9.20\\IMG\\dog6.jpg"
+  },
+  {
+    "name": "1",
+    "Type": "Cat",
+    "birthYear": 2000,
+    "img": "C:\\Users\\hadar\\source\\repos\\NewProject29.9.20\\NewProject29.9.20\\IMG\\cat1.jpg"
+  },
+  {
+    "name": "2",
+    "Type": "Cat",
+    "birthYear": 2000,
+    "img": "C:\\Users\\hadar\\source\\repos\\NewProject29.9.20\\NewProject29.9.20\\IMG\\cat2.jpg"
+  },
+  {
+    "name": "3",
+    "Type": "Cat",
+    "birthYear": 2000,
+    "img": "C:\\Users\\hadar\\source\\repos\\NewProject29.9.20\\NewProject29.9.20\\IMG\\cat3.jpg"
+  },
+  {
+    "name": "4",
+    "Type": "Cat",
+    "birthYear": 2000,
+    "img": "C:\\Users\\hadar\\source\\repos\\NewProject29.9.20\\NewProject29.9.20\\IMG\\cat4.jpg"
+  },
+  {
+    "name": "5",
+    "Type": "Cat",
+    "birthYear": 2000,
+    "img": "C:\\Users\\hadar\\source\\repos\\NewProject29.9.20\\NewProject29.9.20\\IMG\\cat5.jpg"
   }
 ]
