@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "A",
+    "Type": "Dog",
+    "birthYear": 2020,
+    "img": "C:\\Users\\hadar\\source\\repos\\NewProject29.9.20\\NewProject29.9.20\\IMG\\dog1.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "B",
+    "Type": "Dog",
+    "birthYear": 2020,
+    "img": "C:\\Users\\hadar\\source\\repos\\NewProject29.9.20\\NewProject29.9.20\\IMG\\dog2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "C",
+    "Type": "Dog",
+    "birthYear": 2020,
+    "img": "C:\\Users\\hadar\\source\\repos\\NewProject29.9.20\\NewProject29.9.20\\IMG\\dog3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "D",
+    "Type": "Dog",
+    "birthYear": 2020,
+    "img": "C:\\Users\\hadar\\source\\repos\\NewProject29.9.20\\NewProject29.9.20\\IMG\\dog4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "E",
+    "Type": "Dog",
+    "birthYear": 2020,
+    "img": "C:\\Users\\hadar\\source\\repos\\NewProject29.9.20\\NewProject29.9.20\\IMG\\dog5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "F",
+    "Type": "Dog",
+    "birthYear": 2020,
+    "img": "C:\\Users\\hadar\\source\\repos\\NewProject29.9.20\\NewProject29.9.20\\IMG\\dog6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "1",
+    "Type": "Cat",
+    "birthYear": 2000,
+    "img": "C:\\Users\\hadar\\source\\repos\\NewProject29.9.20\\NewProject29.9.20\\IMG\\cat1.jpg"
+  },
+  {
+    "id": 8,
+    "name": "2",
+    "Type": "Cat",
+    "birthYear": 2000,
+    "img": "C:\\Users\\hadar\\source\\repos\\NewProject29.9.20\\NewProject29.9.20\\IMG\\cat2.jpg"
+  },
+  {
+    "id": 9,
+    "name": "3",
+    "Type": "Cat",
+    "birthYear": 2000,
+    "img": "C:\\Users\\hadar\\source\\repos\\NewProject29.9.20\\NewProject29.9.20\\IMG\\cat3.jpg"
+  },
+  {
+    "id": 10,
+    "name": "4",
+    "Type": "Cat",
+    "birthYear": 2000,
+    "img": "C:\\Users\\hadar\\source\\repos\\NewProject29.9.20\\NewProject29.9.20\\IMG\\cat4.jpg"
+  },
+  {
+    "id": 11,
+    "name": "5",
+    "Type": "Cat",
+    "birthYear": 2000,
+    "img": "C:\\Users\\hadar\\source\\repos\\NewProject29.9.20\\NewProject29.9.20\\IMG\\cat5.jpg"
+  }
+]
